@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+# Raylib
+libraylib.a
+
+# VSCode
+.vscode/
+
